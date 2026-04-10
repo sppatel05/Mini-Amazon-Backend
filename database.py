@@ -13,5 +13,3 @@ users_collection = db["users"]
 products_collection = db["products"]
 cart_collection = db["cart"]
 orders_collection = db["orders"]
-
-print("MONGO_URL", MONGO_URL)
